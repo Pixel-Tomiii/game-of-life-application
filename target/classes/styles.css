@@ -1,0 +1,125 @@
+.root {
+    -fx-background-color: #3d3d3d;
+}
+
+
+
+.button {
+    -fx-background-color:transparent;
+    -fx-background-size: cover;
+}
+
+.toggle-button {
+    -fx-background-color:transparent;
+    -fx-background-size: cover;
+}
+
+
+
+#plus {
+    -fx-background-image: url("plus_button.png");
+    -fx-background-position: center;
+}
+
+#plus:hover {
+    -fx-background-image: url("plus_button_hover.png");
+}
+
+#plus:pressed {
+    -fx-background-image: url("plus_button_active.png");
+}
+
+
+#minus {
+    -fx-background-image: url("minus_button.png");
+    -fx-background-position: center;
+}
+
+#minus:hover {
+    -fx-background-image: url("minus_button_hover.png");
+}
+
+#minus:pressed {
+    -fx-background-image: url("minus_button_active.png");
+}
+
+
+#play {
+    -fx-background-image: url("play_button.png");
+    -fx-background-position: center;
+}
+
+#play:hover {
+    -fx-background-image: url("play_button_hover.png");
+}
+
+#play:pressed {
+    -fx-background-image: url("play_button_active.png");
+}
+
+#play:selected {
+     -fx-background-image: url("play_button_active.png");
+}
+
+
+#pause {
+    -fx-background-image: url("pause_button.png");
+    -fx-background-position: center;
+}
+
+#pause:hover {
+    -fx-background-image: url("pause_button_hover.png");
+}
+
+#pause:pressed {
+    -fx-background-image: url("pause_button_active.png");
+}
+
+#pause:selected {
+    -fx-background-image: url("pause_button_active.png");
+}
+
+
+#stop {
+    -fx-background-image: url("stop_button.png");
+    -fx-background-position: center;
+}
+
+#stop:hover {
+    -fx-background-image: url("stop_button_hover.png");
+}
+
+#stop:pressed {
+    -fx-background-image: url("stop_button_active.png");
+}
+
+
+#exit {
+    -fx-background-image: url("exit_button.png");
+    -fx-background-position: center;
+}
+
+#exit:hover {
+    -fx-background-image: url("exit_button_hover.png");
+}
+
+#exit:pressed {
+    -fx-background-image: url("exit_button_active.png");
+}
+
+
+#clear {
+    -fx-background-image: url("clear_button.png");
+    -fx-background-position: center;
+}
+
+#clear:hover {
+    -fx-background-image: url("clear_button_hover.png");
+}
+
+#clear:pressed {
+    -fx-background-image: url("clear_button_active.png");
+}
+
+
+

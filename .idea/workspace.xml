@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de9441e1-cfc0-49d5-bdb1-69ea8466dff2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XRTC6C3gWhoiMbbNNj4tmeXBHD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaFX 13/javafx-sdk-13.0.2/lib/javafx.controls.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TJohn\Desktop\Projects\Java\ImageWriting\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9441e1-cfc0-49d5-bdb1-69ea8466dff2" name="Default Changelist" comment="" />
+      <created>1581007776203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581007776203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="77" key="#Project_Structure" timestamp="1581127777190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="77" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1581127777190" />
+    <state x="223" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581010702680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1581010702680" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1581099766161">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1581099766161" />
+    <state x="101" y="186" key="FileChooserDialogImpl" timestamp="1581008306794">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="101" y="186" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581008306794" />
+    <state width="1495" height="214" key="GridCell.Tab.0.bottom" timestamp="1581181946071">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581181946071" />
+    <state width="1495" height="214" key="GridCell.Tab.0.center" timestamp="1581181946071">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581181946071" />
+    <state width="1495" height="214" key="GridCell.Tab.0.left" timestamp="1581181946071">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581181946071" />
+    <state width="1495" height="214" key="GridCell.Tab.0.right" timestamp="1581181946071">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581181946071" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1581127651480">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581127651480" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1581116863779">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581116863779" />
+  </component>
+</project>
